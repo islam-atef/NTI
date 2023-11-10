@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699615500 source:c:\users\dell\documents\nti_laps\cyber_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
